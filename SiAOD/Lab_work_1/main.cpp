@@ -17,6 +17,7 @@ double sum(list<double> list) {
 void add(list<double> &voltage, list<double> &current, list<double> &square_voltage, list<double> &square_current, list<double> &voltage_current) {
 	
 	double value;
+	cout << "Введите ток и напряжение: ";
 
 	while (!(cin >> value)) {   
 		cout << "error\n";  
@@ -95,11 +96,18 @@ int main() {
 	list<double> voltage_current;
 
 	// пользовательские значения
-	add(voltage, current, square_voltage, square_current, voltage_current);
-	add(voltage, current, square_voltage, square_current, voltage_current);
-	add(voltage, current, square_voltage, square_current, voltage_current);
-	add(voltage, current, square_voltage, square_current, voltage_current);
+	cout << "Введите количество измерений: ";
+	int count;
+	while (!(cin >> count)) {
+		cout << "error\n";
+		cin.clear();
+		fflush(stdin);
+	}
 
+	for (int i = 0; i < count; i++) {
+		add(voltage, current, square_voltage, square_current, voltage_current);
+	}
+	
 	show(voltage, current);
 
 	cout << endl << "Некоторые значения сумм" << endl;
