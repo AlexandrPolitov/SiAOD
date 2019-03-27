@@ -28,7 +28,6 @@ bool try_parse(int& num) {
 		for (size_t index = 0; index < str.length(); index++)
 			if (str[index] < '0' || str[index] > '9')
 				return false;
-
 		num = atoi(str.c_str());
 		return true;
 	}
