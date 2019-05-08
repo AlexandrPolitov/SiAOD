@@ -1,12 +1,12 @@
 ﻿  main.cpp
-d:\с++\siaod\practic_work_2\main.cpp(105): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-d:\с++\siaod\practic_work_2\main.cpp(175): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-d:\с++\siaod\practic_work_2\main.cpp(195): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
-d:\с++\siaod\practic_work_2\main.cpp(197): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
-d:\с++\siaod\practic_work_2\main.cpp(250): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-d:\с++\siaod\practic_work_2\main.cpp(261): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-d:\с++\siaod\practic_work_2\main.cpp(263): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-d:\с++\siaod\practic_work_2\main.cpp(273): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
-d:\с++\siaod\practic_work_2\main.cpp(275): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
-d:\с++\siaod\practic_work_2\main.cpp(283): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-  Practic_work_2.vcxproj -> D:\С++\SiAOD\x64\Debug\Practic_work_2.exe
+d:\с++\siaod-4-semestr\siaod\practic_work_2\main.cpp(105): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+d:\с++\siaod-4-semestr\siaod\practic_work_2\main.cpp(175): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+d:\с++\siaod-4-semestr\siaod\practic_work_2\main.cpp(195): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+d:\с++\siaod-4-semestr\siaod\practic_work_2\main.cpp(197): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+d:\с++\siaod-4-semestr\siaod\practic_work_2\main.cpp(250): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+d:\с++\siaod-4-semestr\siaod\practic_work_2\main.cpp(261): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+d:\с++\siaod-4-semestr\siaod\practic_work_2\main.cpp(263): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+d:\с++\siaod-4-semestr\siaod\practic_work_2\main.cpp(273): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+d:\с++\siaod-4-semestr\siaod\practic_work_2\main.cpp(275): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+d:\с++\siaod-4-semestr\siaod\practic_work_2\main.cpp(283): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Practic_work_2.vcxproj -> D:\С++\SiAOD-4-semestr\SiAOD\x64\Debug\Practic_work_2.exe
